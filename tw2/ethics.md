@@ -1,3 +1,6 @@
+Nicholas Engelhard Ethics
+
+
 1. dont steal others work from them
 
 2. taking company software and spreading it is bad

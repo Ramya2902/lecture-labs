@@ -20,7 +20,7 @@
 
     1. space to store stuff
     2. can view pictures
-    3. 
+    3. network access
 
 
 # What are the functional requirements

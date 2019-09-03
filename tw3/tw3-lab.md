@@ -4,9 +4,9 @@
 
 # Who are the stakeholders?
 
-  1. photographer
-  2. editor
-  3. journalist
+   1. photographer
+   2. editor
+   3. journalist
 
 
 # Who are the users
